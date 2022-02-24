@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/2/algorithms/practice/binary_search_tree/main.cpp
+iostream
+-
+vector
+-
+set
+-
+numeric
+-
+sstream
+-
+functional
+-
+iostream
+-
+vector
+-
+set
+-
+numeric
+-
+sstream
+-
+functional
+-
+
