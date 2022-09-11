@@ -1,3 +1,0 @@
-D:/study/2/algorithms/practice/test2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-D:/study/2/algorithms/practice/test2/cmake-build-debug/CMakeFiles/test2.dir
-D:/study/2/algorithms/practice/test2/cmake-build-debug/CMakeFiles/edit_cache.dir
