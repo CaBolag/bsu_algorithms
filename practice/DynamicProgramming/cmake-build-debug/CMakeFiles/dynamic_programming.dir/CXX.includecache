@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/2/algorithms/practice/dynamic_programming/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+algorithm
+-
+initializer_list
+-
+

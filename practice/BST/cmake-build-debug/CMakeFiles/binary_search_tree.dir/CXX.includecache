@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/2/algorithms/practice/binary_search_tree/BinaryTree.h
+iostream
+-
+vector
+-
+sstream
+-
+functional
+-
+
+D:/study/2/algorithms/practice/binary_search_tree/main.cpp
+BinaryTree.h
+D:/study/2/algorithms/practice/binary_search_tree/BinaryTree.h
+

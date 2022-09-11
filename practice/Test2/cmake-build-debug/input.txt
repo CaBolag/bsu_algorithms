@@ -1,0 +1,8 @@
+1 4 7
+BytelandSUIR_5 9 896
+BytelandSU_6 9 636
+show
+BytelandSU_1 10 746
+BytelandSU_2 11 1151
+BytelandNTU_1 12 1389
+show

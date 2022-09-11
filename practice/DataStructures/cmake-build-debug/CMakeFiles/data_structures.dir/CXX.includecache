@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/study/2/algorithms/practice/data_structures/SQRTDecomposition.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+cmath
+-
+
+D:/study/2/algorithms/practice/data_structures/SegmentTree.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+
+D:/study/2/algorithms/practice/data_structures/main.cpp
+iostream
+-
+vector
+-
+queue
+-
+iomanip
+-
+SegmentTree.cpp
+D:/study/2/algorithms/practice/data_structures/SegmentTree.cpp
+SQRTDecomposition.cpp
+D:/study/2/algorithms/practice/data_structures/SQRTDecomposition.cpp
+

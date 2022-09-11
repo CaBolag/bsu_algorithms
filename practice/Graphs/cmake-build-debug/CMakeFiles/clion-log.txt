@@ -1,0 +1,4 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/mingw64/bin/mingw32-make.exe" "-DCMAKE_C_COMPILER=C:/Program Files/mingw64/bin/gcc.exe" "-DCMAKE_CXX_COMPILER=C:/Program Files/mingw64/bin/g++.exe" -G "CodeBlocks - MinGW Makefiles" D:\study\2\algorithms\practice\graphs
+-- Configuring done
+-- Generating done
+-- Build files have been written to: D:/study/2/algorithms/practice/graphs/cmake-build-debug
